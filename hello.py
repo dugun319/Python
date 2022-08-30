@@ -11,3 +11,8 @@ print(a)
 
 a.pop()
 print(a)
+
+a.insert(4, 7)
+print(a)
+
+print("What happened?")
