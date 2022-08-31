@@ -7,6 +7,6 @@ def gugudan(num):
         print()
 
 
-if __name__ :  "__main__"
-gugudan(1)
+if __name__ == "__main__":
+    gugudan(1)
     
