@@ -1,8 +1,5 @@
 class FourCal:
-    def __init__(self):
-        pass
-
-    def __init__(self, int1, int2):
+    def __init__(self, int1 = None, int2 = None):
         self.int1 = int1
         self.int2 = int2
 
