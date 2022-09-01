@@ -81,10 +81,10 @@ f1.close()
 f2 = open("Testfile.txt", 'r')
 sentence = f2.read()
 f2.close()
-print("Before:\n", sentence)
+print("Before:\t", sentence)
 
 sentence2 = sentence.replace("JAVA", "Python")
-print(sentence2)
+print("Sentence2:\t", sentence2)
 
 f1 = open("Testfile.txt", 'w')
 f1.write(sentence2)
@@ -93,5 +93,3 @@ f2 = open("Testfile.txt", 'r')
 sentence3 = f2.read()
 f2.close()
 print("After:\t", sentence3)
-
-
