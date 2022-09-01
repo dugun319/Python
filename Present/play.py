@@ -1,7 +1,7 @@
 
-from MoreFourCal import MoreFourCal
+from SafeFourCal import SafeFourCal
 
-a = MoreFourCal(2, 7)
+a = SafeFourCal(2, 0)
 
 print(a.add())
 print(a.minus())
