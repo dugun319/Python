@@ -1,6 +1,5 @@
 import random
 import time
-from webbrowser import get
 
 getstr = random.getstate()
 list(getstr)
@@ -132,5 +131,6 @@ print()
 random.seed(random.random())
 getstr = random.getstate()
 list(getstr)
-print("\ngetstr = ", getstr[1][0])
+print("\nrandom.seed(random.random()) getstr = ", getstr[1][0])
 print()
+
