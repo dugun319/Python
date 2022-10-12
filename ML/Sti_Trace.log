@@ -1,0 +1,1442 @@
+
+****** Opened file log at 2022-05-03 21:32:08 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1c0c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1c0c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:32:08 Tracer (STIWOW64) , called from [wiawow64.exe::0x1c0c]
+
+****** Opened file log at 2022-05-03 21:32:11 .Tracer (STIWOW64) , called from [wiawow64.exe::0x10f8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x10f8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:32:11 Tracer (STIWOW64) , called from [wiawow64.exe::0x10f8]
+
+****** Opened file log at 2022-05-03 21:32:13 .Tracer (STIWOW64) , called from [wiawow64.exe::0xc3c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xc3c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:32:13 Tracer (STIWOW64) , called from [wiawow64.exe::0xc3c]
+
+****** Opened file log at 2022-05-03 21:32:15 .Tracer (STIWOW64) , called from [wiawow64.exe::0x730]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x730]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:32:15 Tracer (STIWOW64) , called from [wiawow64.exe::0x730]
+
+****** Opened file log at 2022-05-03 21:32:17 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1dec]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1dec]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:32:17 Tracer (STIWOW64) , called from [wiawow64.exe::0x1dec]
+
+****** Opened file log at 2022-05-03 21:33:02 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1fdc]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1fdc]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:33:02 Tracer (STIWOW64) , called from [wiawow64.exe::0x1fdc]
+
+****** Opened file log at 2022-05-03 21:33:04 .Tracer (STIWOW64) , called from [wiawow64.exe::0xb64]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xb64]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:33:04 Tracer (STIWOW64) , called from [wiawow64.exe::0xb64]
+
+****** Opened file log at 2022-05-03 21:33:06 .Tracer (STIWOW64) , called from [wiawow64.exe::0xf48]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xf48]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:33:06 Tracer (STIWOW64) , called from [wiawow64.exe::0xf48]
+
+****** Opened file log at 2022-05-03 21:33:08 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1b94]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1b94]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:33:08 Tracer (STIWOW64) , called from [wiawow64.exe::0x1b94]
+
+****** Opened file log at 2022-05-03 21:33:10 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1ab8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1ab8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:33:10 Tracer (STIWOW64) , called from [wiawow64.exe::0x1ab8]
+
+****** Opened file log at 2022-05-03 21:34:13 .Tracer (STIWOW64) , called from [wiawow64.exe::0x14bc]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x14bc]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:34:13 Tracer (STIWOW64) , called from [wiawow64.exe::0x14bc]
+
+****** Opened file log at 2022-05-03 21:34:15 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1a98]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1a98]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:34:15 Tracer (STIWOW64) , called from [wiawow64.exe::0x1a98]
+
+****** Opened file log at 2022-05-03 21:34:17 .Tracer (STIWOW64) , called from [wiawow64.exe::0x8b8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x8b8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:34:17 Tracer (STIWOW64) , called from [wiawow64.exe::0x8b8]
+
+****** Opened file log at 2022-05-03 21:34:20 .Tracer (STIWOW64) , called from [wiawow64.exe::0x17f4]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x17f4]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:34:20 Tracer (STIWOW64) , called from [wiawow64.exe::0x17f4]
+
+****** Opened file log at 2022-05-03 21:34:22 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1b20]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1b20]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:34:22 Tracer (STIWOW64) , called from [wiawow64.exe::0x1b20]
+
+****** Opened file log at 2022-05-03 21:35:10 .Tracer (STIWOW64) , called from [wiawow64.exe::0xc88]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xc88]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:35:10 Tracer (STIWOW64) , called from [wiawow64.exe::0xc88]
+
+****** Opened file log at 2022-05-03 21:35:13 .Tracer (STIWOW64) , called from [wiawow64.exe::0x14d8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x14d8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:35:13 Tracer (STIWOW64) , called from [wiawow64.exe::0x14d8]
+
+****** Opened file log at 2022-05-03 21:35:15 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1978]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1978]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:35:15 Tracer (STIWOW64) , called from [wiawow64.exe::0x1978]
+
+****** Opened file log at 2022-05-03 21:35:17 .Tracer (STIWOW64) , called from [wiawow64.exe::0x17a4]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x17a4]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:35:17 Tracer (STIWOW64) , called from [wiawow64.exe::0x17a4]
+
+****** Opened file log at 2022-05-03 21:35:19 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1b00]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1b00]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-03 21:35:19 Tracer (STIWOW64) , called from [wiawow64.exe::0x1b00]
+
+****** Opened file log at 2022-05-16 12:51:10 .Tracer (STIWOW64) , called from [wiawow64.exe::0xe54]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xe54]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:51:10 Tracer (STIWOW64) , called from [wiawow64.exe::0xe54]
+
+****** Opened file log at 2022-05-16 12:51:13 .Tracer (STIWOW64) , called from [wiawow64.exe::0x6a0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x6a0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:51:13 Tracer (STIWOW64) , called from [wiawow64.exe::0x6a0]
+
+****** Opened file log at 2022-05-16 12:51:15 .Tracer (STIWOW64) , called from [wiawow64.exe::0x14b0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x14b0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:51:15 Tracer (STIWOW64) , called from [wiawow64.exe::0x14b0]
+
+****** Opened file log at 2022-05-16 12:51:17 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2630]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2630]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:51:17 Tracer (STIWOW64) , called from [wiawow64.exe::0x2630]
+
+****** Opened file log at 2022-05-16 12:52:03 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1114]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1114]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:52:03 Tracer (STIWOW64) , called from [wiawow64.exe::0x1114]
+
+****** Opened file log at 2022-05-16 12:52:05 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2208]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2208]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:52:05 Tracer (STIWOW64) , called from [wiawow64.exe::0x2208]
+
+****** Opened file log at 2022-05-16 12:52:07 .Tracer (STIWOW64) , called from [wiawow64.exe::0x17c8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x17c8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:52:07 Tracer (STIWOW64) , called from [wiawow64.exe::0x17c8]
+
+****** Opened file log at 2022-05-16 12:52:09 .Tracer (STIWOW64) , called from [wiawow64.exe::0x14f0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x14f0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:52:09 Tracer (STIWOW64) , called from [wiawow64.exe::0x14f0]
+
+****** Opened file log at 2022-05-16 12:52:11 .Tracer (STIWOW64) , called from [wiawow64.exe::0xc04]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xc04]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:52:11 Tracer (STIWOW64) , called from [wiawow64.exe::0xc04]
+
+****** Opened file log at 2022-05-16 12:53:20 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2478]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2478]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:53:20 Tracer (STIWOW64) , called from [wiawow64.exe::0x2478]
+
+****** Opened file log at 2022-05-16 12:53:22 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1e1c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1e1c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:53:22 Tracer (STIWOW64) , called from [wiawow64.exe::0x1e1c]
+
+****** Opened file log at 2022-05-16 12:53:24 .Tracer (STIWOW64) , called from [wiawow64.exe::0x19a0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x19a0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:53:24 Tracer (STIWOW64) , called from [wiawow64.exe::0x19a0]
+
+****** Opened file log at 2022-05-16 12:53:26 .Tracer (STIWOW64) , called from [wiawow64.exe::0x24ec]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x24ec]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:53:26 Tracer (STIWOW64) , called from [wiawow64.exe::0x24ec]
+
+****** Opened file log at 2022-05-16 12:53:28 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1d80]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1d80]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:53:28 Tracer (STIWOW64) , called from [wiawow64.exe::0x1d80]
+
+****** Opened file log at 2022-05-16 12:54:28 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1dcc]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1dcc]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:54:28 Tracer (STIWOW64) , called from [wiawow64.exe::0x1dcc]
+
+****** Opened file log at 2022-05-16 12:54:31 .Tracer (STIWOW64) , called from [wiawow64.exe::0x201c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x201c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:54:31 Tracer (STIWOW64) , called from [wiawow64.exe::0x201c]
+
+****** Opened file log at 2022-05-16 12:54:33 .Tracer (STIWOW64) , called from [wiawow64.exe::0x41c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x41c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:54:33 Tracer (STIWOW64) , called from [wiawow64.exe::0x41c]
+
+****** Opened file log at 2022-05-16 12:54:35 .Tracer (STIWOW64) , called from [wiawow64.exe::0xbd4]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xbd4]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:54:35 Tracer (STIWOW64) , called from [wiawow64.exe::0xbd4]
+
+****** Opened file log at 2022-05-16 12:54:37 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1cbc]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1cbc]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:54:37 Tracer (STIWOW64) , called from [wiawow64.exe::0x1cbc]
+
+****** Opened file log at 2022-05-16 12:55:30 .Tracer (STIWOW64) , called from [wiawow64.exe::0xdc0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xdc0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:55:30 Tracer (STIWOW64) , called from [wiawow64.exe::0xdc0]
+
+****** Opened file log at 2022-05-16 12:55:32 .Tracer (STIWOW64) , called from [wiawow64.exe::0xbd4]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xbd4]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:55:32 Tracer (STIWOW64) , called from [wiawow64.exe::0xbd4]
+
+****** Opened file log at 2022-05-16 12:55:35 .Tracer (STIWOW64) , called from [wiawow64.exe::0xbc0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xbc0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:55:35 Tracer (STIWOW64) , called from [wiawow64.exe::0xbc0]
+
+****** Opened file log at 2022-05-16 12:55:37 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2380]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2380]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:55:37 Tracer (STIWOW64) , called from [wiawow64.exe::0x2380]
+
+****** Opened file log at 2022-05-16 12:58:27 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1690]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1690]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:58:27 Tracer (STIWOW64) , called from [wiawow64.exe::0x1690]
+
+****** Opened file log at 2022-05-16 12:58:30 .Tracer (STIWOW64) , called from [wiawow64.exe::0x168c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x168c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:58:30 Tracer (STIWOW64) , called from [wiawow64.exe::0x168c]
+
+****** Opened file log at 2022-05-16 12:58:32 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1fe8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1fe8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:58:32 Tracer (STIWOW64) , called from [wiawow64.exe::0x1fe8]
+
+****** Opened file log at 2022-05-16 12:58:34 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2338]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2338]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:58:34 Tracer (STIWOW64) , called from [wiawow64.exe::0x2338]
+
+****** Opened file log at 2022-05-16 12:59:32 .Tracer (STIWOW64) , called from [wiawow64.exe::0xa7c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xa7c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:59:32 Tracer (STIWOW64) , called from [wiawow64.exe::0xa7c]
+
+****** Opened file log at 2022-05-16 12:59:35 .Tracer (STIWOW64) , called from [wiawow64.exe::0x21dc]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x21dc]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:59:35 Tracer (STIWOW64) , called from [wiawow64.exe::0x21dc]
+
+****** Opened file log at 2022-05-16 12:59:37 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2554]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2554]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:59:37 Tracer (STIWOW64) , called from [wiawow64.exe::0x2554]
+
+****** Opened file log at 2022-05-16 12:59:39 .Tracer (STIWOW64) , called from [wiawow64.exe::0x26a8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x26a8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:59:39 Tracer (STIWOW64) , called from [wiawow64.exe::0x26a8]
+
+****** Opened file log at 2022-05-16 12:59:41 .Tracer (STIWOW64) , called from [wiawow64.exe::0x7a0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x7a0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 12:59:41 Tracer (STIWOW64) , called from [wiawow64.exe::0x7a0]
+
+****** Opened file log at 2022-05-16 13:00:34 .Tracer (STIWOW64) , called from [wiawow64.exe::0x974]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x974]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 13:00:34 Tracer (STIWOW64) , called from [wiawow64.exe::0x974]
+
+****** Opened file log at 2022-05-16 13:00:36 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1f38]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1f38]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 13:00:36 Tracer (STIWOW64) , called from [wiawow64.exe::0x1f38]
+
+****** Opened file log at 2022-05-16 13:00:38 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2520]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2520]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 13:00:38 Tracer (STIWOW64) , called from [wiawow64.exe::0x2520]
+
+****** Opened file log at 2022-05-16 13:00:40 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1664]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1664]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 13:00:40 Tracer (STIWOW64) , called from [wiawow64.exe::0x1664]
+
+****** Opened file log at 2022-05-16 13:00:42 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2654]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2654]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-16 13:00:42 Tracer (STIWOW64) , called from [wiawow64.exe::0x2654]
+
+****** Opened file log at 2022-05-18 20:39:11 .Tracer (STIWOW64) , called from [wiawow64.exe::0x203c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x203c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-18 20:39:11 Tracer (STIWOW64) , called from [wiawow64.exe::0x203c]
+
+****** Opened file log at 2022-05-18 20:39:13 .Tracer (STIWOW64) , called from [wiawow64.exe::0x245c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x245c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-18 20:39:13 Tracer (STIWOW64) , called from [wiawow64.exe::0x245c]
+
+****** Opened file log at 2022-05-18 20:39:16 .Tracer (STIWOW64) , called from [wiawow64.exe::0x288]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x288]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-18 20:39:16 Tracer (STIWOW64) , called from [wiawow64.exe::0x288]
+
+****** Opened file log at 2022-05-18 20:39:18 .Tracer (STIWOW64) , called from [wiawow64.exe::0x16f8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x16f8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-18 20:39:18 Tracer (STIWOW64) , called from [wiawow64.exe::0x16f8]
+
+****** Opened file log at 2022-05-18 20:40:05 .Tracer (STIWOW64) , called from [wiawow64.exe::0x980]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x980]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-18 20:40:05 Tracer (STIWOW64) , called from [wiawow64.exe::0x980]
+
+****** Opened file log at 2022-05-18 20:40:07 .Tracer (STIWOW64) , called from [wiawow64.exe::0x13fc]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x13fc]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-18 20:40:07 Tracer (STIWOW64) , called from [wiawow64.exe::0x13fc]
+
+****** Opened file log at 2022-05-18 20:40:09 .Tracer (STIWOW64) , called from [wiawow64.exe::0x15ec]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x15ec]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-18 20:40:09 Tracer (STIWOW64) , called from [wiawow64.exe::0x15ec]
+
+****** Opened file log at 2022-05-18 20:40:11 .Tracer (STIWOW64) , called from [wiawow64.exe::0xc5c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xc5c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-18 20:40:11 Tracer (STIWOW64) , called from [wiawow64.exe::0xc5c]
+
+****** Opened file log at 2022-05-25 22:01:23 .Tracer (STIWOW64) , called from [wiawow64.exe::0x34a4]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x34a4]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:01:23 Tracer (STIWOW64) , called from [wiawow64.exe::0x34a4]
+
+****** Opened file log at 2022-05-25 22:01:26 .Tracer (STIWOW64) , called from [wiawow64.exe::0x634]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x634]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:01:26 Tracer (STIWOW64) , called from [wiawow64.exe::0x634]
+
+****** Opened file log at 2022-05-25 22:01:28 .Tracer (STIWOW64) , called from [wiawow64.exe::0x290c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x290c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:01:28 Tracer (STIWOW64) , called from [wiawow64.exe::0x290c]
+
+****** Opened file log at 2022-05-25 22:04:34 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2494]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2494]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:04:34 Tracer (STIWOW64) , called from [wiawow64.exe::0x2494]
+
+****** Opened file log at 2022-05-25 22:04:36 .Tracer (STIWOW64) , called from [wiawow64.exe::0x245c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x245c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:04:36 Tracer (STIWOW64) , called from [wiawow64.exe::0x245c]
+
+****** Opened file log at 2022-05-25 22:04:38 .Tracer (STIWOW64) , called from [wiawow64.exe::0x13ac]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x13ac]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:04:38 Tracer (STIWOW64) , called from [wiawow64.exe::0x13ac]
+
+****** Opened file log at 2022-05-25 22:04:40 .Tracer (STIWOW64) , called from [wiawow64.exe::0x31d0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x31d0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:04:40 Tracer (STIWOW64) , called from [wiawow64.exe::0x31d0]
+
+****** Opened file log at 2022-05-25 22:04:43 .Tracer (STIWOW64) , called from [wiawow64.exe::0x3128]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x3128]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:04:43 Tracer (STIWOW64) , called from [wiawow64.exe::0x3128]
+
+****** Opened file log at 2022-05-25 22:05:23 .Tracer (STIWOW64) , called from [wiawow64.exe::0x75c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x75c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:05:23 Tracer (STIWOW64) , called from [wiawow64.exe::0x75c]
+
+****** Opened file log at 2022-05-25 22:05:26 .Tracer (STIWOW64) , called from [wiawow64.exe::0x70]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x70]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:05:26 Tracer (STIWOW64) , called from [wiawow64.exe::0x70]
+
+****** Opened file log at 2022-05-25 22:05:28 .Tracer (STIWOW64) , called from [wiawow64.exe::0x3748]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x3748]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:05:28 Tracer (STIWOW64) , called from [wiawow64.exe::0x3748]
+
+****** Opened file log at 2022-05-25 22:05:30 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2718]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2718]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:05:30 Tracer (STIWOW64) , called from [wiawow64.exe::0x2718]
+
+****** Opened file log at 2022-05-25 22:05:32 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2b84]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2b84]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:05:32 Tracer (STIWOW64) , called from [wiawow64.exe::0x2b84]
+
+****** Opened file log at 2022-05-25 22:06:12 .Tracer (STIWOW64) , called from [wiawow64.exe::0x308c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x308c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:06:12 Tracer (STIWOW64) , called from [wiawow64.exe::0x308c]
+
+****** Opened file log at 2022-05-25 22:06:14 .Tracer (STIWOW64) , called from [wiawow64.exe::0x640]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x640]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:06:14 Tracer (STIWOW64) , called from [wiawow64.exe::0x640]
+
+****** Opened file log at 2022-05-25 22:06:16 .Tracer (STIWOW64) , called from [wiawow64.exe::0xcac]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xcac]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:06:16 Tracer (STIWOW64) , called from [wiawow64.exe::0xcac]
+
+****** Opened file log at 2022-05-25 22:06:18 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1f0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1f0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:06:18 Tracer (STIWOW64) , called from [wiawow64.exe::0x1f0]
+
+****** Opened file log at 2022-05-25 22:06:21 .Tracer (STIWOW64) , called from [wiawow64.exe::0x32c0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x32c0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:06:21 Tracer (STIWOW64) , called from [wiawow64.exe::0x32c0]
+
+****** Opened file log at 2022-05-25 22:10:00 .Tracer (STIWOW64) , called from [wiawow64.exe::0xa3c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xa3c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:10:00 Tracer (STIWOW64) , called from [wiawow64.exe::0xa3c]
+
+****** Opened file log at 2022-05-25 22:10:03 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2a40]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2a40]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:10:03 Tracer (STIWOW64) , called from [wiawow64.exe::0x2a40]
+
+****** Opened file log at 2022-05-25 22:10:05 .Tracer (STIWOW64) , called from [wiawow64.exe::0x18b4]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x18b4]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:10:05 Tracer (STIWOW64) , called from [wiawow64.exe::0x18b4]
+
+****** Opened file log at 2022-05-25 22:10:07 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1c50]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1c50]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:10:07 Tracer (STIWOW64) , called from [wiawow64.exe::0x1c50]
+
+****** Opened file log at 2022-05-25 22:10:09 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2dcc]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2dcc]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:10:09 Tracer (STIWOW64) , called from [wiawow64.exe::0x2dcc]
+
+****** Opened file log at 2022-05-25 22:14:34 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2ef4]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2ef4]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:14:34 Tracer (STIWOW64) , called from [wiawow64.exe::0x2ef4]
+
+****** Opened file log at 2022-05-25 22:14:36 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2dc4]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2dc4]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:14:36 Tracer (STIWOW64) , called from [wiawow64.exe::0x2dc4]
+
+****** Opened file log at 2022-05-25 22:14:39 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1200]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1200]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:14:39 Tracer (STIWOW64) , called from [wiawow64.exe::0x1200]
+
+****** Opened file log at 2022-05-25 22:14:41 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1aa4]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1aa4]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:14:41 Tracer (STIWOW64) , called from [wiawow64.exe::0x1aa4]
+
+****** Opened file log at 2022-05-25 22:14:43 .Tracer (STIWOW64) , called from [wiawow64.exe::0x3328]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x3328]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:14:43 Tracer (STIWOW64) , called from [wiawow64.exe::0x3328]
+
+****** Opened file log at 2022-05-25 22:15:19 .Tracer (STIWOW64) , called from [wiawow64.exe::0x3484]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x3484]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:15:19 Tracer (STIWOW64) , called from [wiawow64.exe::0x3484]
+
+****** Opened file log at 2022-05-25 22:15:21 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2374]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2374]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:15:21 Tracer (STIWOW64) , called from [wiawow64.exe::0x2374]
+
+****** Opened file log at 2022-05-25 22:15:23 .Tracer (STIWOW64) , called from [wiawow64.exe::0x3574]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x3574]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:15:23 Tracer (STIWOW64) , called from [wiawow64.exe::0x3574]
+
+****** Opened file log at 2022-05-25 22:15:25 .Tracer (STIWOW64) , called from [wiawow64.exe::0x34bc]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x34bc]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:15:25 Tracer (STIWOW64) , called from [wiawow64.exe::0x34bc]
+
+****** Opened file log at 2022-05-25 22:15:27 .Tracer (STIWOW64) , called from [wiawow64.exe::0x150c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x150c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:15:27 Tracer (STIWOW64) , called from [wiawow64.exe::0x150c]
+
+****** Opened file log at 2022-05-25 22:16:06 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2a58]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2a58]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:16:06 Tracer (STIWOW64) , called from [wiawow64.exe::0x2a58]
+
+****** Opened file log at 2022-05-25 22:16:08 .Tracer (STIWOW64) , called from [wiawow64.exe::0x31b8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x31b8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:16:08 Tracer (STIWOW64) , called from [wiawow64.exe::0x31b8]
+
+****** Opened file log at 2022-05-25 22:16:11 .Tracer (STIWOW64) , called from [wiawow64.exe::0x24b8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x24b8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:16:11 Tracer (STIWOW64) , called from [wiawow64.exe::0x24b8]
+
+****** Opened file log at 2022-05-25 22:16:13 .Tracer (STIWOW64) , called from [wiawow64.exe::0x3790]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x3790]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:16:13 Tracer (STIWOW64) , called from [wiawow64.exe::0x3790]
+
+****** Opened file log at 2022-05-25 22:16:15 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2aac]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2aac]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-05-25 22:16:15 Tracer (STIWOW64) , called from [wiawow64.exe::0x2aac]
+
+****** Opened file log at 2022-06-07 20:27:49 .Tracer (STIWOW64) , called from [wiawow64.exe::0x35cc]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x35cc]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:27:49 Tracer (STIWOW64) , called from [wiawow64.exe::0x35cc]
+
+****** Opened file log at 2022-06-07 20:27:51 .Tracer (STIWOW64) , called from [wiawow64.exe::0x3730]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x3730]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:27:51 Tracer (STIWOW64) , called from [wiawow64.exe::0x3730]
+
+****** Opened file log at 2022-06-07 20:27:53 .Tracer (STIWOW64) , called from [wiawow64.exe::0x34f8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x34f8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:27:53 Tracer (STIWOW64) , called from [wiawow64.exe::0x34f8]
+
+****** Opened file log at 2022-06-07 20:27:55 .Tracer (STIWOW64) , called from [wiawow64.exe::0x3a9c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x3a9c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:27:55 Tracer (STIWOW64) , called from [wiawow64.exe::0x3a9c]
+
+****** Opened file log at 2022-06-07 20:27:58 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1d4c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1d4c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:27:58 Tracer (STIWOW64) , called from [wiawow64.exe::0x1d4c]
+
+****** Opened file log at 2022-06-07 20:28:33 .Tracer (STIWOW64) , called from [wiawow64.exe::0x21f0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x21f0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:28:33 Tracer (STIWOW64) , called from [wiawow64.exe::0x21f0]
+
+****** Opened file log at 2022-06-07 20:28:35 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1740]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1740]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:28:35 Tracer (STIWOW64) , called from [wiawow64.exe::0x1740]
+
+****** Opened file log at 2022-06-07 20:28:37 .Tracer (STIWOW64) , called from [wiawow64.exe::0x27cc]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x27cc]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:28:37 Tracer (STIWOW64) , called from [wiawow64.exe::0x27cc]
+
+****** Opened file log at 2022-06-07 20:28:39 .Tracer (STIWOW64) , called from [wiawow64.exe::0xbec]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xbec]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:28:39 Tracer (STIWOW64) , called from [wiawow64.exe::0xbec]
+
+****** Opened file log at 2022-06-07 20:28:41 .Tracer (STIWOW64) , called from [wiawow64.exe::0x34c8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x34c8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:28:41 Tracer (STIWOW64) , called from [wiawow64.exe::0x34c8]
+
+****** Opened file log at 2022-06-07 20:29:24 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2f04]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2f04]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:29:24 Tracer (STIWOW64) , called from [wiawow64.exe::0x2f04]
+
+****** Opened file log at 2022-06-07 20:29:26 .Tracer (STIWOW64) , called from [wiawow64.exe::0xdc]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xdc]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:29:26 Tracer (STIWOW64) , called from [wiawow64.exe::0xdc]
+
+****** Opened file log at 2022-06-07 20:29:28 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2aac]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2aac]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:29:28 Tracer (STIWOW64) , called from [wiawow64.exe::0x2aac]
+
+****** Opened file log at 2022-06-07 20:29:31 .Tracer (STIWOW64) , called from [wiawow64.exe::0x3114]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x3114]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:29:31 Tracer (STIWOW64) , called from [wiawow64.exe::0x3114]
+
+****** Opened file log at 2022-06-07 20:29:33 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2240]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2240]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:29:33 Tracer (STIWOW64) , called from [wiawow64.exe::0x2240]
+
+****** Opened file log at 2022-06-07 20:30:17 .Tracer (STIWOW64) , called from [wiawow64.exe::0x39e8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x39e8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:30:17 Tracer (STIWOW64) , called from [wiawow64.exe::0x39e8]
+
+****** Opened file log at 2022-06-07 20:30:19 .Tracer (STIWOW64) , called from [wiawow64.exe::0x32e4]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x32e4]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:30:19 Tracer (STIWOW64) , called from [wiawow64.exe::0x32e4]
+
+****** Opened file log at 2022-06-07 20:30:21 .Tracer (STIWOW64) , called from [wiawow64.exe::0x38f8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x38f8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:30:21 Tracer (STIWOW64) , called from [wiawow64.exe::0x38f8]
+
+****** Opened file log at 2022-06-07 20:30:23 .Tracer (STIWOW64) , called from [wiawow64.exe::0x37cc]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x37cc]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:30:23 Tracer (STIWOW64) , called from [wiawow64.exe::0x37cc]
+
+****** Opened file log at 2022-06-07 20:30:26 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2ab8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2ab8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-06-07 20:30:26 Tracer (STIWOW64) , called from [wiawow64.exe::0x2ab8]
+
+****** Opened file log at 2022-07-09 16:09:22 .Tracer (STIWOW64) , called from [wiawow64.exe::0x4808]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x4808]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-09 16:09:25 Tracer (STIWOW64) , called from [wiawow64.exe::0x4808]
+
+****** Opened file log at 2022-07-09 16:09:27 .Tracer (STIWOW64) , called from [wiawow64.exe::0x6764]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x6764]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-09 16:09:27 Tracer (STIWOW64) , called from [wiawow64.exe::0x6764]
+
+****** Opened file log at 2022-07-09 16:09:29 .Tracer (STIWOW64) , called from [wiawow64.exe::0x4ed4]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x4ed4]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-09 16:09:29 Tracer (STIWOW64) , called from [wiawow64.exe::0x4ed4]
+
+****** Opened file log at 2022-07-09 16:10:15 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2b8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2b8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-09 16:10:15 Tracer (STIWOW64) , called from [wiawow64.exe::0x2b8]
+
+****** Opened file log at 2022-07-09 16:10:18 .Tracer (STIWOW64) , called from [wiawow64.exe::0x6930]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x6930]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-09 16:10:18 Tracer (STIWOW64) , called from [wiawow64.exe::0x6930]
+
+****** Opened file log at 2022-07-09 16:10:20 .Tracer (STIWOW64) , called from [wiawow64.exe::0x9b8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x9b8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-09 16:10:20 Tracer (STIWOW64) , called from [wiawow64.exe::0x9b8]
+
+****** Opened file log at 2022-07-09 16:10:22 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1fdc]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1fdc]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-09 16:10:22 Tracer (STIWOW64) , called from [wiawow64.exe::0x1fdc]
+
+****** Opened file log at 2022-07-09 16:10:24 .Tracer (STIWOW64) , called from [wiawow64.exe::0x39b4]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x39b4]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-09 16:10:24 Tracer (STIWOW64) , called from [wiawow64.exe::0x39b4]
+
+****** Opened file log at 2022-07-09 16:12:55 .Tracer (STIWOW64) , called from [wiawow64.exe::0x5834]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x5834]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-09 16:12:55 Tracer (STIWOW64) , called from [wiawow64.exe::0x5834]
+
+****** Opened file log at 2022-07-09 16:12:57 .Tracer (STIWOW64) , called from [wiawow64.exe::0x6940]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x6940]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-09 16:12:57 Tracer (STIWOW64) , called from [wiawow64.exe::0x6940]
+
+****** Opened file log at 2022-07-09 16:12:59 .Tracer (STIWOW64) , called from [wiawow64.exe::0xa88]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xa88]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-09 16:12:59 Tracer (STIWOW64) , called from [wiawow64.exe::0xa88]
+
+****** Opened file log at 2022-07-09 16:13:02 .Tracer (STIWOW64) , called from [wiawow64.exe::0x6f5c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x6f5c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-09 16:13:02 Tracer (STIWOW64) , called from [wiawow64.exe::0x6f5c]
+
+****** Opened file log at 2022-07-09 16:13:04 .Tracer (STIWOW64) , called from [wiawow64.exe::0xb28]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xb28]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-09 16:13:04 Tracer (STIWOW64) , called from [wiawow64.exe::0xb28]
+
+****** Opened file log at 2022-07-21 7:35:39 .Tracer (STIWOW64) , called from [wiawow64.exe::0x397c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x397c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-21 7:35:39 Tracer (STIWOW64) , called from [wiawow64.exe::0x397c]
+
+****** Opened file log at 2022-07-21 7:35:41 .Tracer (STIWOW64) , called from [wiawow64.exe::0xdb8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xdb8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-21 7:35:41 Tracer (STIWOW64) , called from [wiawow64.exe::0xdb8]
+
+****** Opened file log at 2022-07-21 7:35:43 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1480]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1480]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-21 7:35:43 Tracer (STIWOW64) , called from [wiawow64.exe::0x1480]
+
+****** Opened file log at 2022-07-21 7:35:45 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2770]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2770]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-21 7:35:45 Tracer (STIWOW64) , called from [wiawow64.exe::0x2770]
+
+****** Opened file log at 2022-07-21 7:37:28 .Tracer (STIWOW64) , called from [wiawow64.exe::0x4024]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x4024]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-21 7:37:28 Tracer (STIWOW64) , called from [wiawow64.exe::0x4024]
+
+****** Opened file log at 2022-07-21 7:37:30 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1878]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1878]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-21 7:37:30 Tracer (STIWOW64) , called from [wiawow64.exe::0x1878]
+
+****** Opened file log at 2022-07-21 7:37:32 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1508]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1508]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-21 7:37:32 Tracer (STIWOW64) , called from [wiawow64.exe::0x1508]
+
+****** Opened file log at 2022-07-21 7:37:34 .Tracer (STIWOW64) , called from [wiawow64.exe::0x3f8c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x3f8c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-21 7:37:34 Tracer (STIWOW64) , called from [wiawow64.exe::0x3f8c]
+
+****** Opened file log at 2022-07-21 7:37:37 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1a64]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1a64]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-21 7:37:37 Tracer (STIWOW64) , called from [wiawow64.exe::0x1a64]
+
+****** Opened file log at 2022-07-21 14:08:14 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1e04]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1e04]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-21 14:08:14 Tracer (STIWOW64) , called from [wiawow64.exe::0x1e04]
+
+****** Opened file log at 2022-07-21 14:08:16 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1ab0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1ab0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-21 14:08:16 Tracer (STIWOW64) , called from [wiawow64.exe::0x1ab0]
+
+****** Opened file log at 2022-07-21 14:08:18 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1768]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1768]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-21 14:08:18 Tracer (STIWOW64) , called from [wiawow64.exe::0x1768]
+
+****** Opened file log at 2022-07-21 14:08:20 .Tracer (STIWOW64) , called from [wiawow64.exe::0x3cc8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x3cc8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-21 14:08:20 Tracer (STIWOW64) , called from [wiawow64.exe::0x3cc8]
+
+****** Opened file log at 2022-07-21 14:08:22 .Tracer (STIWOW64) , called from [wiawow64.exe::0x3554]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x3554]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-21 14:08:22 Tracer (STIWOW64) , called from [wiawow64.exe::0x3554]
+
+****** Opened file log at 2022-07-21 14:09:10 .Tracer (STIWOW64) , called from [wiawow64.exe::0xf4c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xf4c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-21 14:09:10 Tracer (STIWOW64) , called from [wiawow64.exe::0xf4c]
+
+****** Opened file log at 2022-07-21 14:09:12 .Tracer (STIWOW64) , called from [wiawow64.exe::0x21c8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x21c8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-21 14:09:12 Tracer (STIWOW64) , called from [wiawow64.exe::0x21c8]
+
+****** Opened file log at 2022-07-21 14:09:14 .Tracer (STIWOW64) , called from [wiawow64.exe::0x411c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x411c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-07-21 14:09:14 Tracer (STIWOW64) , called from [wiawow64.exe::0x411c]
+
+****** Opened file log at 2022-08-11 22:13:42 .Tracer (STIWOW64) , called from [wiawow64.exe::0x5f84]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x5f84]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-11 22:13:42 Tracer (STIWOW64) , called from [wiawow64.exe::0x5f84]
+
+****** Opened file log at 2022-08-11 22:13:44 .Tracer (STIWOW64) , called from [wiawow64.exe::0x61a0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x61a0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-11 22:13:44 Tracer (STIWOW64) , called from [wiawow64.exe::0x61a0]
+
+****** Opened file log at 2022-08-11 22:13:47 .Tracer (STIWOW64) , called from [wiawow64.exe::0x20e0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x20e0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-11 22:13:47 Tracer (STIWOW64) , called from [wiawow64.exe::0x20e0]
+
+****** Opened file log at 2022-08-11 22:13:49 .Tracer (STIWOW64) , called from [wiawow64.exe::0x62f8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x62f8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-11 22:13:49 Tracer (STIWOW64) , called from [wiawow64.exe::0x62f8]
+
+****** Opened file log at 2022-08-11 22:14:53 .Tracer (STIWOW64) , called from [wiawow64.exe::0x60d4]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x60d4]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-11 22:14:53 Tracer (STIWOW64) , called from [wiawow64.exe::0x60d4]
+
+****** Opened file log at 2022-08-11 22:14:55 .Tracer (STIWOW64) , called from [wiawow64.exe::0x22c8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x22c8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-11 22:14:55 Tracer (STIWOW64) , called from [wiawow64.exe::0x22c8]
+
+****** Opened file log at 2022-08-11 22:14:57 .Tracer (STIWOW64) , called from [wiawow64.exe::0x58bc]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x58bc]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-11 22:14:58 Tracer (STIWOW64) , called from [wiawow64.exe::0x58bc]
+
+****** Opened file log at 2022-08-11 22:15:00 .Tracer (STIWOW64) , called from [wiawow64.exe::0xbb8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xbb8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-11 22:15:00 Tracer (STIWOW64) , called from [wiawow64.exe::0xbb8]
+
+****** Opened file log at 2022-08-11 22:15:38 .Tracer (STIWOW64) , called from [wiawow64.exe::0x58d8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x58d8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-11 22:15:38 Tracer (STIWOW64) , called from [wiawow64.exe::0x58d8]
+
+****** Opened file log at 2022-08-11 22:15:40 .Tracer (STIWOW64) , called from [wiawow64.exe::0x515c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x515c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-11 22:15:40 Tracer (STIWOW64) , called from [wiawow64.exe::0x515c]
+
+****** Opened file log at 2022-08-11 22:15:42 .Tracer (STIWOW64) , called from [wiawow64.exe::0x31f0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x31f0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-11 22:15:42 Tracer (STIWOW64) , called from [wiawow64.exe::0x31f0]
+
+****** Opened file log at 2022-08-11 22:15:45 .Tracer (STIWOW64) , called from [wiawow64.exe::0x5e1c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x5e1c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-11 22:15:45 Tracer (STIWOW64) , called from [wiawow64.exe::0x5e1c]
+
+****** Opened file log at 2022-08-24 8:02:32 .Tracer (STIWOW64) , called from [wiawow64.exe::0x5180]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x5180]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-24 8:02:32 Tracer (STIWOW64) , called from [wiawow64.exe::0x5180]
+
+****** Opened file log at 2022-08-24 8:02:34 .Tracer (STIWOW64) , called from [wiawow64.exe::0x46d0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x46d0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-24 8:02:34 Tracer (STIWOW64) , called from [wiawow64.exe::0x46d0]
+
+****** Opened file log at 2022-08-24 8:02:37 .Tracer (STIWOW64) , called from [wiawow64.exe::0x39dc]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x39dc]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-24 8:02:37 Tracer (STIWOW64) , called from [wiawow64.exe::0x39dc]
+
+****** Opened file log at 2022-08-24 8:03:30 .Tracer (STIWOW64) , called from [wiawow64.exe::0x4e3c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x4e3c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-24 8:03:30 Tracer (STIWOW64) , called from [wiawow64.exe::0x4e3c]
+
+****** Opened file log at 2022-08-24 8:03:32 .Tracer (STIWOW64) , called from [wiawow64.exe::0x4148]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x4148]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-24 8:03:32 Tracer (STIWOW64) , called from [wiawow64.exe::0x4148]
+
+****** Opened file log at 2022-08-24 17:39:34 .Tracer (STIWOW64) , called from [wiawow64.exe::0x3888]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x3888]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-24 17:39:34 Tracer (STIWOW64) , called from [wiawow64.exe::0x3888]
+
+****** Opened file log at 2022-08-24 17:39:37 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1eb0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1eb0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-24 17:39:37 Tracer (STIWOW64) , called from [wiawow64.exe::0x1eb0]
+
+****** Opened file log at 2022-08-24 17:39:39 .Tracer (STIWOW64) , called from [wiawow64.exe::0x4358]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x4358]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-24 17:39:39 Tracer (STIWOW64) , called from [wiawow64.exe::0x4358]
+
+****** Opened file log at 2022-08-24 17:39:41 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1dd0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1dd0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-24 17:39:41 Tracer (STIWOW64) , called from [wiawow64.exe::0x1dd0]
+
+****** Opened file log at 2022-08-27 21:20:51 .Tracer (STIWOW64) , called from [wiawow64.exe::0x5b34]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x5b34]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:20:51 Tracer (STIWOW64) , called from [wiawow64.exe::0x5b34]
+
+****** Opened file log at 2022-08-27 21:20:53 .Tracer (STIWOW64) , called from [wiawow64.exe::0xe50]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xe50]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:20:54 Tracer (STIWOW64) , called from [wiawow64.exe::0xe50]
+
+****** Opened file log at 2022-08-27 21:20:56 .Tracer (STIWOW64) , called from [wiawow64.exe::0x12ec]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x12ec]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:20:57 Tracer (STIWOW64) , called from [wiawow64.exe::0x12ec]
+
+****** Opened file log at 2022-08-27 21:21:38 .Tracer (STIWOW64) , called from [wiawow64.exe::0x382c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x382c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:21:39 Tracer (STIWOW64) , called from [wiawow64.exe::0x382c]
+
+****** Opened file log at 2022-08-27 21:21:41 .Tracer (STIWOW64) , called from [wiawow64.exe::0x15f8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x15f8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:21:41 Tracer (STIWOW64) , called from [wiawow64.exe::0x15f8]
+
+****** Opened file log at 2022-08-27 21:21:43 .Tracer (STIWOW64) , called from [wiawow64.exe::0x5ac8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x5ac8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:21:43 Tracer (STIWOW64) , called from [wiawow64.exe::0x5ac8]
+
+****** Opened file log at 2022-08-27 21:21:46 .Tracer (STIWOW64) , called from [wiawow64.exe::0x39cc]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x39cc]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:21:46 Tracer (STIWOW64) , called from [wiawow64.exe::0x39cc]
+
+****** Opened file log at 2022-08-27 21:23:13 .Tracer (STIWOW64) , called from [wiawow64.exe::0x5a28]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x5a28]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:23:13 Tracer (STIWOW64) , called from [wiawow64.exe::0x5a28]
+
+****** Opened file log at 2022-08-27 21:23:16 .Tracer (STIWOW64) , called from [wiawow64.exe::0x3a4c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x3a4c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:23:16 Tracer (STIWOW64) , called from [wiawow64.exe::0x3a4c]
+
+****** Opened file log at 2022-08-27 21:23:18 .Tracer (STIWOW64) , called from [wiawow64.exe::0x353c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x353c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:23:18 Tracer (STIWOW64) , called from [wiawow64.exe::0x353c]
+
+****** Opened file log at 2022-08-27 21:23:20 .Tracer (STIWOW64) , called from [wiawow64.exe::0x1f90]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x1f90]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:23:20 Tracer (STIWOW64) , called from [wiawow64.exe::0x1f90]
+
+****** Opened file log at 2022-08-27 21:24:06 .Tracer (STIWOW64) , called from [wiawow64.exe::0x34d0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x34d0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:24:06 Tracer (STIWOW64) , called from [wiawow64.exe::0x34d0]
+
+****** Opened file log at 2022-08-27 21:24:08 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2c14]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2c14]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:24:08 Tracer (STIWOW64) , called from [wiawow64.exe::0x2c14]
+
+****** Opened file log at 2022-08-27 21:24:10 .Tracer (STIWOW64) , called from [wiawow64.exe::0x5a2c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x5a2c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:24:10 Tracer (STIWOW64) , called from [wiawow64.exe::0x5a2c]
+
+****** Opened file log at 2022-08-27 21:24:53 .Tracer (STIWOW64) , called from [wiawow64.exe::0x359c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x359c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:24:53 Tracer (STIWOW64) , called from [wiawow64.exe::0x359c]
+
+****** Opened file log at 2022-08-27 21:24:56 .Tracer (STIWOW64) , called from [wiawow64.exe::0x3e98]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x3e98]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:24:56 Tracer (STIWOW64) , called from [wiawow64.exe::0x3e98]
+
+****** Opened file log at 2022-08-27 21:24:58 .Tracer (STIWOW64) , called from [wiawow64.exe::0x2858]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x2858]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:24:58 Tracer (STIWOW64) , called from [wiawow64.exe::0x2858]
+
+****** Opened file log at 2022-08-27 21:25:00 .Tracer (STIWOW64) , called from [wiawow64.exe::0x4c48]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x4c48]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:25:00 Tracer (STIWOW64) , called from [wiawow64.exe::0x4c48]
+
+****** Opened file log at 2022-08-27 21:25:02 .Tracer (STIWOW64) , called from [wiawow64.exe::0x5ab0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x5ab0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:25:02 Tracer (STIWOW64) , called from [wiawow64.exe::0x5ab0]
+
+****** Opened file log at 2022-08-27 21:25:37 .Tracer (STIWOW64) , called from [wiawow64.exe::0x5b5c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x5b5c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:25:37 Tracer (STIWOW64) , called from [wiawow64.exe::0x5b5c]
+
+****** Opened file log at 2022-08-27 21:25:39 .Tracer (STIWOW64) , called from [wiawow64.exe::0x55e8]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x55e8]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:25:39 Tracer (STIWOW64) , called from [wiawow64.exe::0x55e8]
+
+****** Opened file log at 2022-08-27 21:25:41 .Tracer (STIWOW64) , called from [wiawow64.exe::0x3470]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x3470]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:25:41 Tracer (STIWOW64) , called from [wiawow64.exe::0x3470]
+
+****** Opened file log at 2022-08-27 21:25:44 .Tracer (STIWOW64) , called from [wiawow64.exe::0x4804]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x4804]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-08-27 21:25:44 Tracer (STIWOW64) , called from [wiawow64.exe::0x4804]
+
+****** Opened file log at 2022-09-12 11:13:01 .Tracer (STIWOW64) , called from [wiawow64.exe::0x43f0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x43f0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-09-12 11:13:01 Tracer (STIWOW64) , called from [wiawow64.exe::0x43f0]
+
+****** Opened file log at 2022-09-12 11:13:04 .Tracer (STIWOW64) , called from [wiawow64.exe::0x15fc]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x15fc]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-09-12 11:13:04 Tracer (STIWOW64) , called from [wiawow64.exe::0x15fc]
+
+****** Opened file log at 2022-09-12 11:14:02 .Tracer (STIWOW64) , called from [wiawow64.exe::0xf4c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xf4c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-09-12 11:14:02 Tracer (STIWOW64) , called from [wiawow64.exe::0xf4c]
+
+****** Opened file log at 2022-09-12 11:14:04 .Tracer (STIWOW64) , called from [wiawow64.exe::0x5974]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x5974]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-09-12 11:14:04 Tracer (STIWOW64) , called from [wiawow64.exe::0x5974]
+
+****** Opened file log at 2022-09-12 11:14:06 .Tracer (STIWOW64) , called from [wiawow64.exe::0x5ac0]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x5ac0]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-09-12 11:14:06 Tracer (STIWOW64) , called from [wiawow64.exe::0x5ac0]
+
+****** Opened file log at 2022-09-12 11:14:49 .Tracer (STIWOW64) , called from [wiawow64.exe::0x45a4]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x45a4]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-09-12 11:14:49 Tracer (STIWOW64) , called from [wiawow64.exe::0x45a4]
+
+****** Opened file log at 2022-09-12 11:14:51 .Tracer (STIWOW64) , called from [wiawow64.exe::0x5e40]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x5e40]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-09-12 11:14:52 Tracer (STIWOW64) , called from [wiawow64.exe::0x5e40]
+
+****** Opened file log at 2022-09-12 11:14:54 .Tracer (STIWOW64) , called from [wiawow64.exe::0xc1c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xc1c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-09-12 11:14:54 Tracer (STIWOW64) , called from [wiawow64.exe::0xc1c]
+
+****** Opened file log at 2022-09-12 11:14:56 .Tracer (STIWOW64) , called from [wiawow64.exe::0x4080]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0x4080]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 2022-09-12 11:14:57 Tracer (STIWOW64) , called from [wiawow64.exe::0x4080]
