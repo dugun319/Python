@@ -18,7 +18,7 @@ from sklearn.svm import SVC
 ...
 
 # Load dataset
-url = "C:/Users/KOSTA/project/doit/ML/exam.csv"
+url = "/mnt/c/Users/KOSTA/project/doit/ML/exam.csv"
 # C:/Users/KOSTA/project/doit/ML"
 names = ['Ampitude', 'group']
 dataset = read_csv(url, names=names)
@@ -30,6 +30,9 @@ X = array[:,0:1]
 y = array[:,1]
 X_train, X_validation, Y_train, Y_validation = train_test_split(X, y, test_size=0.20, random_state=1)
 
+print(type(X))
+
+"""
 ...
 # Spot Check Algorithms
 models = []
@@ -140,3 +143,5 @@ predictions = SVM.predict(X_validation)
 print(accuracy_score(Y_validation, predictions))
 print(confusion_matrix(Y_validation, predictions))
 print(classification_report(Y_validation, predictions))
+
+"""
