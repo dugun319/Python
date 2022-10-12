@@ -18,16 +18,16 @@ from sklearn.svm import SVC
 ...
 
 # Load dataset
-url = "/mnt/c/Users/KOSTA/project/doit/ML/exam.csv"
+url = "/mnt/c/Users/KOSTA/project/doit/ML/test1.csv"
 # C:/Users/KOSTA/project/doit/ML"
-names = ['Ampitude', 'group']
+names = ['col1', 'col2', 'col3', 'group']
 dataset = read_csv(url, names=names)
 
 ...
 # Split-out validation dataset
 array = dataset.values
-X = array[:,0:1]
-y = array[:,1]
+X = array[:,0:3]
+y = array[:,3]
 X_train, X_validation, Y_train, Y_validation = train_test_split(X, y, test_size=0.20, random_state=1)
 
 
@@ -113,7 +113,7 @@ print(accuracy_score(Y_validation, predictions))
 print(confusion_matrix(Y_validation, predictions))
 print(classification_report(Y_validation, predictions))
 
-
+"""
 ...
 # Make predictions on validation dataset about GaussianNB
 print("GaussianNB")
@@ -141,3 +141,4 @@ print(accuracy_score(Y_validation, predictions))
 print(confusion_matrix(Y_validation, predictions))
 print(classification_report(Y_validation, predictions))
 
+"""
