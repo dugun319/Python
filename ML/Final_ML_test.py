@@ -18,18 +18,21 @@ from sklearn.svm import SVC
 ...
 
 # Load dataset
-url = "/mnt/c/Users/KOSTA/project/doit/ML/test1.csv"
+url = "/mnt/c/Users/KOSTA/project/doit/ML/breast-cancer.csv"
 # C:/Users/KOSTA/project/doit/ML"
-names = ['col1', 'col2', 'col3', 'group']
+names = ['col1', 'col2', 'col3','col4', 'col5', 'col6', 'col7', 'col8', 'col9', 'col10',
+			'col11', 'col12', 'col13','col14', 'col15', 'col16', 'col17', 'col18', 'col19', 'col20',
+			'diagnosis']
 dataset = read_csv(url, names=names)
 
 ...
 # Split-out validation dataset
 array = dataset.values
-X = array[:,0:3]
-y = array[:,3]
+X = array[:,0:20]
+y = array[:,20]
 X_train, X_validation, Y_train, Y_validation = train_test_split(X, y, test_size=0.20, random_state=1)
 
+# print(y)
 
 # Spot Check Algorithms
 models = []
@@ -113,7 +116,6 @@ print(accuracy_score(Y_validation, predictions))
 print(confusion_matrix(Y_validation, predictions))
 print(classification_report(Y_validation, predictions))
 
-"""
 ...
 # Make predictions on validation dataset about GaussianNB
 print("GaussianNB")
@@ -140,5 +142,3 @@ predictions = SVM.predict(X_validation)
 print(accuracy_score(Y_validation, predictions))
 print(confusion_matrix(Y_validation, predictions))
 print(classification_report(Y_validation, predictions))
-
-"""
